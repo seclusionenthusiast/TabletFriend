@@ -8,6 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="300" Width="200" 
         AllowsTransparency="True" WindowStyle="None"
+		Topmost="True"
 		ShowInTaskbar="False"
 		Background="Transparent"
 		UseLayoutRounding="True"
